@@ -1,4 +1,4 @@
-package org.self.learn.springmvc.config;
+package org.self.learn.springmvc.controller;
 
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;

@@ -6,10 +6,5 @@ import javax.servlet.ServletException;
 import org.springframework.web.WebApplicationInitializer;
 
 public class SpringHelloWebAppInitializer implements WebApplicationInitializer {
-
-	public void onStartup(ServletContext servletContext) throws ServletException {
-		
-		
-	}
-
+	public void onStartup(ServletContext servletContext) throws ServletException {}
 }
